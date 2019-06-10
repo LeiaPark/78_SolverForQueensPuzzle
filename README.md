@@ -4,7 +4,9 @@
 
 ### citations / worked with / received help from
 
-Piazza threads
+* Piazza thread 479: "hw77#1 SPOILER the plan" - although this is a source that may be omitted, I wanted to include this source because I found it truly helpful.
+* Exercise from Friday's class: "references (reprise)" - drawing the process was also helpful
+
 
 This list may omit sources common to everyone in the course,
 including...
